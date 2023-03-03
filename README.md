@@ -1,2 +1,2 @@
-# 2023-firmware
-Firmware and EE documentation for 2023 STEP
+# 2023-EE
+Firmware and EE documents for 2023 STEP
